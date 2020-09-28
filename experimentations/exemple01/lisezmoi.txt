@@ -1,0 +1,9 @@
+Bonjour
+
+Permissions:
+                         RWX
+u (users): 6 --)  110
+g (group): 4 --)  100
+o(others): 4 --)  100
+
+l'objectif de cette journée..
